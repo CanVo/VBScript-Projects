@@ -45,4 +45,4 @@ Just run the script again until the error doesn't appear and it should execute s
 
 ## Acknowledgments
 
-* Kudos to anyone who's code was used as reference.
+* Kudos to anyone whose code was used as reference.
