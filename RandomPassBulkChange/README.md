@@ -29,7 +29,7 @@ If on a Windows domain, it is possible to push and deploy the script through a g
 
 During the execution of the script, it sometimes results in an error:
 
-<img src="Error.png" width="900" />
+<img src="Error.png" width="600" />
 
 
 Just run the script again until the error doesn't appear and it should execute successfully. The fix will be on the todo list.
