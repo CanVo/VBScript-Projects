@@ -11,10 +11,9 @@ An administrator level user to be able to run the script.
 
 Download the "RandomPassBulkChange.vbs" file and place to where desired. After doing so, edit the follow lines to your needs:
 
-7:  Password length. <br />
-24: User that will not have their password changed. This user is usually the account you're on so you can log back in easily to check if
-    the passwords were changed properly. <br />
-26: The file path and name of the .csv file that will be created. <br />
+**7**:  Password length. <br />
+**24**: User that will not have their password changed. This user is usually the account you're on so you can log back in easily to check if the passwords were changed properly. <br />
+**26**: The file path and name of the .csv file that will be created. <br />
 
 End with an example of getting some data out of the system or using it for a little demo
 
