@@ -27,12 +27,12 @@ If on a Windows domain, it is possible to push and deploy the script through a g
 
 ## Known Bugs
 
-During the execution of the script, it sometimes results in an error:
+During the execution of the script, it sometimes results in an error when there's too many users:
 
 <img src="Error.png" width="600" />
 
 
-Just run the script again until the error doesn't appear and it should execute successfully. The fix will be on the todo list.
+The script may have to be ran with a small amount of users to work. A fix will be on the todo list.
 
 ## To-do
 
